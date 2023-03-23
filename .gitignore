@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/VsComTest/v15
+/VsComTest/Debug
+/Debug
+/Release
+/VsComTest/Release
